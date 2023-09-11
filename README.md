@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there! 👋 I'm Jie
 
-<!--
-**jie5566/jie5566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student passionate about UX/UI design. Welcome to my GitHub profile! Here, you'll find a collection of my open-source projects and contributions. 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Location: Sweden
+- 🎓 Education: New media design student in Jönköping university
+
+## 🔧 Technologies & Tools
+
+## 📫 Contact Me
+
+- GitHub: https://github.com/jie5566
+- LinkedIn: https://www.linkedin.com/in/jie-chen-1768a725/
+
+Let's connect and collaborate on exciting projects! 😄
