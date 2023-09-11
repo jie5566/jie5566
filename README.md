@@ -10,19 +10,16 @@ I'm a student passionate about UX/UI design. Welcome to my GitHub profile! Here,
 ## 🔧 Technologies & Tools
 
 I love working with a variety of technologies and tools. Here are some of the ones I frequently use:
-
 ## 🔧 Technologies & Tools
 
-I love working with a variety of technologies and tools. Here are some of the ones I frequently use:
+I work with a variety of technologies and tools. Here are some of the ones I frequently use:
 
-## 🔧 Technologies & Tools
-
-I love working with a variety of technologies and tools. Here are some of the ones I frequently use:
-
+### Programming Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
 </p>
 
+### Web Development
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50">
@@ -30,13 +27,18 @@ I love working with a variety of technologies and tools. Here are some of the on
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50">
 </p>
 
+### Database
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50">
 </p>
 
+### Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="50" height="50">
 </p>
+
+
+
 
 
 ## 📫 Contact Me
