@@ -11,11 +11,14 @@ I'm a student passionate about UX/UI design. Welcome to my GitHub profile! Here,
 
 I love working with a variety of technologies and tools. Here are some of the ones I frequently use:
 
-- **Programming Languages**: JavaScript
-- **Web Development**: HTML, CSS, React, Node.js
-- **Database**: MySQL
-- **Tools**:  VSCode
+## 🔧 Technologies & Tools
 
+I love working with a variety of technologies and tools. Here are some of the ones I frequently use:
+
+- <img src="images/javascript-logo.png" alt="JavaScript" width="30" height="30"> **Programming Languages**: JavaScript
+- <img src="images/html-logo.png" alt="HTML" width="30" height="30"> <img src="images/css-logo.png" alt="CSS" width="30" height="30"> <img src="images/react-logo.png" alt="React" width="30" height="30"> <img src="images/nodejs-logo.png" alt="Node.js" width="30" height="30"> **Web Development**: HTML, CSS, React, Node.js
+- <img src="images/mysql-logo.png" alt="MySQL" width="30" height="30"> **Database**: MySQL
+- <img src="images/vscode-logo.png" alt="VSCode" width="30" height="30"> **Tools**: VSCode
 
 
 ## 📫 Contact Me
