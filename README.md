@@ -15,10 +15,28 @@ I love working with a variety of technologies and tools. Here are some of the on
 
 I love working with a variety of technologies and tools. Here are some of the ones I frequently use:
 
-- <img src="images/javascript-logo.png" alt="JavaScript" width="30" height="30"> **Programming Languages**: JavaScript
-- <img src="images/html-logo.png" alt="HTML" width="30" height="30"> <img src="images/css-logo.png" alt="CSS" width="30" height="30"> <img src="images/react-logo.png" alt="React" width="30" height="30"> <img src="images/nodejs-logo.png" alt="Node.js" width="30" height="30"> **Web Development**: HTML, CSS, React, Node.js
-- <img src="images/mysql-logo.png" alt="MySQL" width="30" height="30"> **Database**: MySQL
-- <img src="images/vscode-logo.png" alt="VSCode" width="30" height="30"> **Tools**: VSCode
+## 🔧 Technologies & Tools
+
+I love working with a variety of technologies and tools. Here are some of the ones I frequently use:
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50">
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50">
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50">
+</p>
 
 
 ## 📫 Contact Me
