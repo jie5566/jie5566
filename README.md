@@ -10,9 +10,6 @@ I'm a student passionate about UX/UI design. Welcome to my GitHub profile! Here,
 ## 🔧 Technologies & Tools
 
 I love working with a variety of technologies and tools. Here are some of the ones I frequently use:
-## 🔧 Technologies & Tools
-
-I work with a variety of technologies and tools. Here are some of the ones I frequently use:
 
 ### Programming Languages
 <p align="left">
