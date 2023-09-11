@@ -33,6 +33,7 @@ I'm a student passionate about UX/UI design. Welcome to my GitHub profile! Here,
 </p>
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?jie5566=YourUsername&layout=compact)
 
 
 ## 📫 Contact Me
