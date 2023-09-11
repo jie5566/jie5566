@@ -9,6 +9,15 @@ I'm a student passionate about UX/UI design. Welcome to my GitHub profile! Here,
 
 ## 🔧 Technologies & Tools
 
+I love working with a variety of technologies and tools. Here are some of the ones I frequently use:
+
+- **Programming Languages**: JavaScript
+- **Web Development**: HTML, CSS, React, Node.js
+- **Database**: MySQL
+- **Tools**:  VSCode
+
+
+
 ## 📫 Contact Me
 
 - GitHub: https://github.com/jie5566
@@ -17,7 +26,4 @@ I'm a student passionate about UX/UI design. Welcome to my GitHub profile! Here,
 Let's connect and collaborate on exciting projects! 😄
 
 
-## GitHub Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
 
