@@ -34,9 +34,6 @@ I love working with a variety of technologies and tools. Here are some of the on
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="50" height="50">
 </p>
 
-## Top Technologies & Tools
-
-![Top Technologies & Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=jie5566&layout=compact&card_width=450&langs_count=6)
 
 
 
