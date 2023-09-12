@@ -27,7 +27,6 @@ I'm a student passionate about UX/UI design. Welcome to my GitHub profile! Here,
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50">
 </p>
 
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jie5566&layout=compact&theme=dark&border_color=transparent)
 
 ### Tools
 <p align="left">
@@ -35,6 +34,7 @@ I'm a student passionate about UX/UI design. Welcome to my GitHub profile! Here,
 </p>
 
 
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jie5566&layout=compact&theme=dark&border_color=transparent)
 
 ## 📫 Contact Me
 
