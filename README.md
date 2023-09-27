@@ -29,7 +29,8 @@ I'm a student passionate about UX/UI design. Welcome to my GitHub profile! Here,
 
 ### Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio 
+Code" width="50" height="50">
 </p>
 
 ## Top Languages
