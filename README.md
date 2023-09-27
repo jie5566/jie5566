@@ -24,8 +24,7 @@ I'm a student passionate about UX/UI design. Welcome to my GitHub profile! Here,
 
 ### Database
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50">
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"></p>
 
 
 ### Tools
