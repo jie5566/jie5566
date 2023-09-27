@@ -35,7 +35,7 @@ I'm a student passionate about UX/UI design. Welcome to my GitHub profile! Here,
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jie5566&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jie5566&layout=compact&theme=dark&border_color=transparent)
 
 
 ## 📫 Contact Me
